@@ -1,0 +1,17 @@
+leftnav:
+- identifier: d3dae78e-d927-d7ba-20e8-30bf62c90f76
+  name: Introduction
+  pageRef: /pages/introduction
+  weight: 10
+- identifier: 4419591e-01dd-7409-881d-56e7bd1ce4a7
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: d0980677-5415-3344-6fb0-bae3bb5be0e3
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 30
+- identifier: d9271fc3-fc70-01a8-4584-e76665b89755
+  name: Video Lectures
+  pageRef: /video_galleries/video-lectures
+  weight: 40

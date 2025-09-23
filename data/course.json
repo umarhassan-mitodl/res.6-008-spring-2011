@@ -1,0 +1,51 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Digital Systems"
+    ]
+  ],
+  "legacy_uid": "d1d9d201-c401-c38e-8c47-078565316ebf",
+  "instructors": {
+    "content": [
+      "e375d565-270c-0d19-9532-fa4b28cf4b5c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1330ee36-bc69-5d99-79be-47aea3298576",
+    "website": "res-6-008-digital-signal-processing-spring-2011"
+  },
+  "course_title": "Digital Signal Processing",
+  "hide_download": false,
+  "course_description": "This course was developed in 1987 by the MIT Center for Advanced Engineering Studies. It was designed as a distance-education course for engineers and scientists in the workplace.\n\nAdvances in integrated circuit technology have had a major impact on the technical areas to which digital signal processing techniques and hardware are being applied. A thorough understanding of digital signal processing fundamentals and techniques is essential for anyone whose work is concerned with signal processing applications.\n\nDigital Signal Processing begins with a discussion of the analysis and representation of discrete-time signal systems, including discrete-time convolution, difference equations, the z-transform, and the discrete-time Fourier transform. Emphasis is placed on the similarities and distinctions between discrete-time. The course proceeds to cover digital network and nonrecursive (finite impulse response) digital filters. Digital Signal Processing concludes with digital filter design and a discussion of the fast Fourier transform algorithm for computation of the discrete Fourier transform.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.6-008",
+  "course_image_thumbnail": {
+    "content": "79776ee2-5b58-474c-c043-3c24b24fc46d",
+    "website": "res-6-008-digital-signal-processing-spring-2011"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes",
+    "Lecture Videos"
+  ],
+  "site_uid": "0a166bef-24d5-471f-b4f9-80a2378b49c5",
+  "site_short_id": "res.6-008-spring-2011",
+  "site_url_path": "courses/res-6-008-digital-signal-processing-spring-2011",
+  "title": "Course Metadata"
+}
