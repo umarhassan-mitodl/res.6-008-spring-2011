@@ -4,6 +4,8 @@ description: This resource contains information related to digital Butterworth f
 file: /courses/res-6-008-digital-signal-processing-spring-2011/a99637c58c1224795c9d03faa1bd4323_MITRES_6_008S11_lec16.pdf
 file_size: 232821
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

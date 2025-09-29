@@ -5,6 +5,8 @@ description: This resource contains information related to design of IIR digital
 file: /courses/res-6-008-digital-signal-processing-spring-2011/b9850c77ffbd7ee2fd498f34dff41af4_MITRES_6_008S11_lec15.pdf
 file_size: 328940
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

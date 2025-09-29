@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section gives an overview of course format, contents, and prerequisites.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Introduction

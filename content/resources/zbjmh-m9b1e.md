@@ -4,6 +4,8 @@ description: ''
 file: /courses/res-6-008-digital-signal-processing-spring-2011/03f59a5f7f61c0b8d61ccd898963e135_zBJMh-m9b1E.srt
 file_size: 35578
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
