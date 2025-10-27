@@ -5,8 +5,6 @@ description: This resource contains information related to introduction of digit
 file: /courses/res-6-008-digital-signal-processing-spring-2011/0b1fed8c695e21f5eaea4ba3be05eb55_MITRES_6_008S11_lec01.pdf
 file_size: 65470
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

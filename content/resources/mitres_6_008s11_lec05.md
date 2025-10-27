@@ -4,8 +4,6 @@ description: This resource contains information related to the z-transform.
 file: /courses/res-6-008-digital-signal-processing-spring-2011/41705cc32f6266c6c765dd89ed8c4a6f_MITRES_6_008S11_lec05.pdf
 file_size: 351282
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

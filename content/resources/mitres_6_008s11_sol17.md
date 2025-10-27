@@ -5,8 +5,6 @@ description: This resource contains solutions for the problem statements related
 file: /courses/res-6-008-digital-signal-processing-spring-2011/77e21cf556f0959e80a527d2be4e2c9f_MITRES_6_008S11_sol17.pdf
 file_size: 150747
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

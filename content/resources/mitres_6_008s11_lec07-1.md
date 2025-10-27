@@ -4,8 +4,6 @@ description: This resource contains information related to z-transform propertie
 file: /courses/res-6-008-digital-signal-processing-spring-2011/f210dca6daf177fd71b4dcd2dba8b7a6_MITRES_6_008S11_lec07.pdf
 file_size: 229259
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

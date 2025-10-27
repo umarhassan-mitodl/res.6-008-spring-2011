@@ -4,8 +4,6 @@ description: This resource contains information related to the discrete fourier 
 file: /courses/res-6-008-digital-signal-processing-spring-2011/785b36fa522bbd2dea1e7834a7c26315_MITRES_6_008S11_lec08.pdf
 file_size: 290649
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

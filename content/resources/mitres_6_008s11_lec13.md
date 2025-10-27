@@ -6,8 +6,6 @@ description: "This resource contains information related to network structures f
 file: /courses/res-6-008-digital-signal-processing-spring-2011/07f6933da5245d48778613cbcc05823c_MITRES_6_008S11_lec13.pdf
 file_size: 338784
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
