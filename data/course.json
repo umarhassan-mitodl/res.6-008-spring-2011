@@ -28,7 +28,7 @@
     "website": "res-6-008-digital-signal-processing-spring-2011"
   },
   "course_title": "Digital Signal Processing",
-  "hide_download": true,
+  "hide_download": false,
   "course_description": "This course was developed in 1987 by the MIT Center for Advanced Engineering Studies. It was designed as a distance-education course for engineers and scientists in the workplace.\n\nAdvances in integrated circuit technology have had a major impact on the technical areas to which digital signal processing techniques and hardware are being applied. A thorough understanding of digital signal processing fundamentals and techniques is essential for anyone whose work is concerned with signal processing applications.\n\nDigital Signal Processing begins with a discussion of the analysis and representation of discrete-time signal systems, including discrete-time convolution, difference equations, the z-transform, and the discrete-time Fourier transform. Emphasis is placed on the similarities and distinctions between discrete-time. The course proceeds to cover digital network and nonrecursive (finite impulse response) digital filters. Digital Signal Processing concludes with digital filter design and a discussion of the fast Fourier transform algorithm for computation of the discrete Fourier transform.\n",
   "department_numbers": [
     "6"
@@ -39,7 +39,6 @@
     "content": "79776ee2-5b58-474c-c043-3c24b24fc46d",
     "website": "res-6-008-digital-signal-processing-spring-2011"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Lecture Notes",
